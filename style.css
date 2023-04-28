@@ -12,6 +12,8 @@
     transition: .2s;
     text-transform: capitalize;
     text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 5px;
 }
 html{
     font-size: 62.5%;
